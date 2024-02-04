@@ -1,0 +1,27 @@
+*{
+    background-color:#c2d2d5;
+    background-image:url("https://tse2.mm.bing.net/th?id=OIP.5SGt-WFNuR07iwYCAfn89wHaFp&pid=Api&P=0&h=180") ;
+    
+}
+h1{
+    text-align:center;
+    color:#03045e;
+    font-size: 100px; 
+}
+img{
+    
+        border: 1px solid;
+        border-radius: 4px;
+        padding: 5px;
+        width: 150px;
+}
+caption{
+    color:#0077b6;
+    font-size: 150px; 
+}
+p{
+    font-size: 30px;
+}
+a{
+    font-size:30px ;
+}
